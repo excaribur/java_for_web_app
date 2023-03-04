@@ -20,7 +20,7 @@
 
 		<init-param>
 			<param-name>dname</param-name>
-			<param-value>sun.jdbc.odbc.JdbcOdbcDriver</param-value>
+			<param-value>dddd.jdbc.odbc.JdbcOdbcDriver</param-value>
 		</init-param>
 
 	</servlet>
